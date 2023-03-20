@@ -1,0 +1,4 @@
+classes= 3
+train  = data/dbt-data/train.txt
+names = data/dbt-data/obj.names
+backup = backup/
